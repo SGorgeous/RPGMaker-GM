@@ -1,0 +1,70 @@
+#__PrivCrochet_version:1
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -1011,-58
+__PrivCrochet_tags: 
+title: Start
+---
+[c_gray]ACTION 1
+
+你好，这里是[rainbow][wave][scale,4]ACMinerva
+
+你所看到的，便是[rainbow]Gamemaker RPG Kitpack[/]!
+
+这个整合库包含Jujuadams的scribbler,coroutines,chatterbox
+
+我修改了其中[c_green]一些[c_red]代码[/]使其能够相互兼容
+
+现在他能够像[c_yellow]RPG Maker一样操作
+
+现在，右边呈现的便是唯一需要操作页面（除了导入素材以外的操作）
+
+你可以随意的扩展。
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -113,-168
+__PrivCrochet_tags: 
+title: More
+---
+ACTION 2
+除此之外
+
+还有基本的选项功能
+你喜欢吃什么呀？
+-> [wave]性感劲爆的大动脉
+    <<set $result to "性感且劲爆的大动脉">>
+
+-> [wave]鲜嫩多汁的撒哈拉雪山
+    <<set $result to  "鲜嫩多汁的撒哈拉雪山">>
+你选择了....
+{$result} !
+
+通过Crochet软件可以更好的编辑这个对话系统
+
+无论是[wave]分支[/],[wave]条件[/],[wave]变量[/]，所有你希望能够编辑的,凡所应有，无所不有，甚至超越了RPGMaker的自由度。
+
+(换行也是自动的哦)
+
+怎么样，心动了吗?热爱{$result}的你？
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -522,-204
+__PrivCrochet_tags: 
+title: Move
+---
+已经实现了一般的过场动画功能
+
+我现在正在向某一个点移动，但是是自动寻迹。
+
+现在是下一个点
+
+最后一个点
+
+好哒
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -1137,-362
+__PrivCrochet_tags: 
+title: SaveData
+---
+[scale,2][c_white][rainbow]存档已保存！
+===

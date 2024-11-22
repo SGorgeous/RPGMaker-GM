@@ -1,0 +1,2 @@
+freeze 是否冻结对话框
+isPlaying 进程是否运行

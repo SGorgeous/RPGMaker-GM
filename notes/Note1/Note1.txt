@@ -1,0 +1,17 @@
+我改变了 
+
+ChatterBoxVariableGet
+ChatterBoxVariableSet
+ChatterBoxCreate
+
+Variable_Global_Init()
+PrepareGame()
+Audio_Init()
+Attempting to set gamepadcount to 12
+
+Game_Prepare() game_start
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Room_Prepare()  room_start
+Finished PrepareGame() 

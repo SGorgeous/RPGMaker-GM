@@ -1,0 +1,1 @@
+DataInheritLoad(id)

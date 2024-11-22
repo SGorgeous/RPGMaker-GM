@@ -1,0 +1,7 @@
+var _alpha = draw_get_alpha()
+var _color = draw_get_color()
+draw_set_alpha(global.roomCoverAlpha)
+draw_set_color(global.roomCoverColor)
+draw_rectangle(0,0,window_get_width(),window_get_height(),0)
+draw_set_alpha(_alpha)
+draw_set_color(_color)
